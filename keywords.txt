@@ -7,7 +7,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-MAX485		KEYWORD1
+MAX485	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -16,8 +16,8 @@ MAX485		KEYWORD1
 setMaster	KEYWORD2
 setSlave	KEYWORD2
 isMaster	KEYWORD2
-isSlave		KEYWORD2
-sending		KEYWORD2
+isSlave	KEYWORD2
+sending	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
